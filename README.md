@@ -2,7 +2,7 @@
 <img align="right" src="https://count.getloli.com/get/@:yilin1203?theme=gelbooru">
 
 ### Hi there 👋
-## 学习安全的菜鸡脚本小子.欢迎多多交流学习
+## 学习安全的菜鸡脚本小子
 
 - Hello! I'm `白泽麟`.I'm grad to meet you.
 - I've a Web Security Ethusiast and Code Lover.
